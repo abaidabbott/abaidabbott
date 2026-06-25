@@ -8,23 +8,41 @@
 
 ## Hey there! I'm Abaid Ullah 👋
 
-I'm a Full-Stack & AI/ML Engineer who loves building smart, scalable applications. With React/Next.js, Node.js, and Python AI/ML expertise, I've created 100+ solutions across industries like E-commerce, HealthTech, and Web3 & Gen AI. My sweet spot? Combining robust full-stack development with cutting-edge AI.
+### AI & Full-Stack Engineer
+**Transforming MERN Apps with Generative AI & RAG | Python | AWS Cloud | React Native**
 
+I bridge the gap between advanced language models and high-performance product engineering. I build production-ready agentic platforms, multi-agent systems, and scalable web/mobile applications.
 
+---
 
+### 🚀 Core Expertise
 
-### 🌱 What I'm Currently Learning
+- **🤖 GenAI & Agentic Systems:** Multi-agent orchestration, autonomous AI platforms, LangGraph, LangChain, n8n automation.
+- **📚 AI Infrastructure:** Advanced RAG pipelines, vector databases (Pinecone, pgvector), LLM evals, hallucination reduction.
+- **💻 Full-Stack Development:** React, Next.js, Tailwind, React Native, Node.js, Express, Nest.js, Python.
+- **☁️ Cloud & DevOps:** AWS (EC2, ECS, S3, Auto Scaling), Docker, GitHub Actions CI/CD.
 
-🔧 Deepening my DevOps knowledge to build even smoother development pipelines<br/>
-🚀 Exploring new ways to integrate AI into practical business applications
+---
 
+### 🛠️ Tech Stack & Tools
 
-### ❓ Ask Me About
+| Category | Technologies |
+| :--- | :--- |
+| **AI / LLM** | LangGraph, LangChain, Pinecone, pgvector, n8n, OpenAI/Anthropic APIs |
+| **Frontend** | React, Next.js, React Native, Tailwind CSS, shadcn/ui |
+| **Backend** | Node.js, Express, Nest.js, Python, Supabase, Firebase |
+| **Databases** | PostgreSQL, MongoDB, Prisma, Sequelize |
+| **DevOps** | AWS, Docker, GitHub Actions, Linux |
 
-• Building web/mobile apps (MERN stack & React Native)<br/>
-• Web3 development & Solidity smart contracts<br/>
-• AI implementations (LLMs, RAG systems, data pipelines)<br/>
-• Or just geek out about AI/tech in general!<br/>
+---
+
+### 📦 Notable Production Ships
+
+* **Vlore App (App Store/Google Play):** Engineered a custom AES-128 cryptographic hardware handshake for NTAG424 DNA NFC tags on iOS.
+* **snootme.com:** Developed a custom interactive video review interface for live portfolio evaluations.
+* **Agentic Frameworks:** Architected multiple production-grade RAG and multi-agent systems across HealthTech, E-commerce, and Web3.
+
+---
 
 I'm always open to interesting conversations and collaborations. Let's connect and create something awesome together!
 <h3 align="left">Reach me at:</h3>
